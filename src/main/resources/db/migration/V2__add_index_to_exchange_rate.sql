@@ -1,0 +1,1 @@
+CREATE INDEX idx_exchange_rate_date_target_currency ON exchange_rate (date, target_currency);
